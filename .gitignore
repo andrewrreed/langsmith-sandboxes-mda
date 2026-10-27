@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.mda/
+.DS_Store
+*.pem
+*.key
+*.crt
+*.p8
+credentials.json
+node_modules/
